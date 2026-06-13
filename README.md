@@ -218,9 +218,7 @@ The code produces:
 * Monte Carlo estimates of the second moment,
 * Monte Carlo estimates of the EB parameter,
 * theoretical values,
-* comparison plots between simulation and theory.
 
-The figures are saved in the `figures/` folder.
 
 ## Notes
 
